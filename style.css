@@ -1,7 +1,8 @@
+  @import url(normalize.css);
   body{
     background-color: rgb(126, 151, 86);
     color: blanchedalmond;
-  }
+  margin: 0px;}
   h1{
     color: blueviolet;
   }
