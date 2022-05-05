@@ -5,3 +5,8 @@
   h1{
     color: blueviolet;
   }
+#container{
+    width:80%;
+    background-color: lightpink;
+    margin:0px auto;
+}
