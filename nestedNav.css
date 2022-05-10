@@ -104,11 +104,11 @@
 }
 /* 第一層ul背景色彩與邊框 */
 #menu ul {
-	background:#6f6f6f;
+	background:#f6ef36;
 }
 /* 第一層a字型 */
 #menu ul li a {
-	color:#FFF;
+	color:rgb(0, 0, 0);
 	text-decoration:none;
 	line-height: 30px;
 }
@@ -119,15 +119,15 @@
 /* 第二層a字型 */
 #menu ul li ul li a {
 	font-size:0.8em;
-	color:#333333;
+	color:#ff0000;
 	text-decoration:none;
 }
 /* 觸動第一層li時，改變背景色 */
 #menu ul li:hover, #menu ul li a:hover {
-	background:#efefef;
+	background:#9b4ca0;
 }
 #menu ul li:hover a {
-	color:#333333;
+	color:#2b94a7;
 }
 /* 觸動第二層以上li時改變背景色 */
 #menu ul li ul li:hover, #menu ul li ul li a:hover {
